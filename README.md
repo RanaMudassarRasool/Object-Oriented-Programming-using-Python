@@ -46,4 +46,4 @@
 - Implementing iterators, generators, and context managers in Python
 - Using decorators and metaclasses to enhance OOP programs
 
-Each lesson will include theoretical explanations, practical demonstrations, and hands-on coding exercises to reinforce the concepts learned. As your student, we will work through each lesson together, and I will provide guidance, feedback, and assistance as needed. Let's start with Lesson 1: Introduction to Python.
+Each lesson will include theoretical explanations, practical demonstrations, and hands-on coding exercises to reinforce the concepts learned. As your student, we will work through each lesson together, and I will provide guidance, feedback, and assistance as needed.
